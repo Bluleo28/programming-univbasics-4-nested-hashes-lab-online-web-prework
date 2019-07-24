@@ -1,4 +1,4 @@
-(hopper
+(hopper) .to eq({:known_for => "COBOL", :languages =>})
 	programmer_hash = 
  		{
         :grace_hopper => {
